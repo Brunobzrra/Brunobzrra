@@ -1,16 +1,23 @@
-### Hi there 👋
+### Olá, eu sou o Bruno Bezerra!😁. 
+### Atualmente sou estudante do 6º de Análise e desenvolvimento de sistema no Instituto Federal da Paraíba.
+<br>
 
-<!--
-**Brunobzrra/Brunobzrra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Você pode me encontrar no: 
 
-Here are some ideas to get you started:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-santos-52673418b/)
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Dashboard
+![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=Brunobzrra&show_icons=true&theme=highcontrast)
+
+#### Principais tecnologias que eu uso/estudo no momento:
+</br>
+<div display = "display inline-block">
+    <img alt="java" align = "center"src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+    <img alt="javascript" align = "center"src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img alt="CSS3" align = "center"src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img alt="HTML5" align = "center"src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+</div>
+
+
+
