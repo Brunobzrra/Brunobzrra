@@ -22,7 +22,7 @@
     <img alt="HTML5" align = "center"src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 </div>
 
- ![Snake animation](https://github.com/Brunobzrra/Brunobzrra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Brunobzrra/Brunobzrra/blob/output/github-contribution-grid-snake.svg)
 
 
 
