@@ -11,7 +11,6 @@
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=Brunobzrra&show_icons=true&theme=highcontrast)
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunobzrra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Principais tecnologias que eu uso/estudo no momento:
 </br>
