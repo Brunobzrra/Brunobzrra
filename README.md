@@ -1,5 +1,5 @@
-### Olá, eu sou o Bruno Bezerra!😁. 
-### Atualmente sou estudante do 6º de Análise e desenvolvimento de sistema no Instituto Federal da Paraíba.
+### Olá 😁. 
+### Atualmente sou estudante do último periodo Análise e desenvolvimento de sistema no Instituto Federal da Paraíba.
 <br>
 
 #### Você pode me encontrar no: 
